@@ -71,6 +71,11 @@ Bootstrap doesn't actually have a black class as of this recording. */
     border: 1px solid black !important;
 }
 
+.bg-black {
+    background: #000 !important;
+}
+
+
 /* -------------------------------- Media Queries */
 
 /* The first one will widen the default
