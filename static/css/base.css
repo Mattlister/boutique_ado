@@ -85,6 +85,12 @@ Bootstrap doesn't actually have a black class as of this recording. */
     z-index: -1;
 }
 
+a.category-badge > span.badge:hover {
+    background: #212529 !important;
+    color: #fff !important;
+}
+
+
 /* -------------------------------- Media Queries */
 
 /* The first one will widen the default
